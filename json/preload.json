@@ -143,23 +143,7 @@
           "desc": "Vintage Art Generation",
           "url": "https://raw.githubusercontent.com/agc666/Magic-Art/main/result/5.png",
           "raw_photo": "https://raw.githubusercontent.com/agc666/Magic-Art/main/original/5.png",
-          "template": {
-            "width": 512,
-            "height": 512,
-            "alchemy": true,
-            "contrastRatio": 0.16,
-            "seed": 565078528,
-            "guidance_scale": 10,
-            "modelId": "1e60896f-3c26-4296-8ecc-53e2afecc132",
-            "prompt": " character in old anime style, from late 1980. Age is around 18 years.",
-            "init_strength": 0.3,
-            "init_image_id": "0ed34dec-3f78-423c-99d5-c7dd895056b1",
-            "num_images": 1,
-            "highContrast": false,
-            "controlNet": true,
-            "controlNetType": "POSE",
-            "nsfw": true
-          }
+          "template": {"width":512,"height":512,"alchemy":true,"contrastRatio":0.16,"seed":881872384,"guidance_scale":10,"modelId":"1e60896f-3c26-4296-8ecc-53e2afecc132","prompt":"female, character in old anime style, from late 1980. Age is around 18 years.","init_strength":0.3,"init_image_id":"0ed34dec-3f78-423c-99d5-c7dd895056b1","num_images":1,"highContrast":false,"controlNet":true,"controlNetType":"POSE"}
         },
         {
           "name": "War Style",
