@@ -1,11 +1,16 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "imagine_value": [
     "https://raw.githubusercontent.com/agc666/Magic-Art/main/imagine/1.png",
     "https://raw.githubusercontent.com/agc666/Magic-Art/main/imagine/2.png",
     "https://raw.githubusercontent.com/agc666/Magic-Art/main/imagine/3.png"
   ],
   "example": [
+    "https://raw.githubusercontent.com/agc666/Magic-Art/main/example/Samples1.png",
+    "https://raw.githubusercontent.com/agc666/Magic-Art/main/example/Samples2.png",
+    "https://raw.githubusercontent.com/agc666/Magic-Art/main/example/Samples3.png"
+  ],
+  "example_large": [
     "https://raw.githubusercontent.com/agc666/Magic-Art/main/example/1.png",
     "https://raw.githubusercontent.com/agc666/Magic-Art/main/example/2.png",
     "https://raw.githubusercontent.com/agc666/Magic-Art/main/example/3.png"
