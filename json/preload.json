@@ -19,6 +19,8 @@
     {
       "name": "Illustration",
       "desc": "Illustration Generation",
+      "diamond": 16,
+      "cost": 39,
       "url": "https://raw.githubusercontent.com/agc666/Magic-Art/main/result/1.png",
       "raw_photo": "https://raw.githubusercontent.com/agc666/Magic-Art/main/original/1.png",
       "banner": "https://raw.githubusercontent.com/agc666/Magic-Art/main/banner/1.png",
@@ -43,6 +45,8 @@
     {
       "name": "Sonic Punk",
       "desc": "Sonic Punk Generation",
+      "diamond": 16,
+      "cost": 39,
       "url": "https://raw.githubusercontent.com/agc666/Magic-Art/main/result/2.png",
       "raw_photo": "https://raw.githubusercontent.com/agc666/Magic-Art/main/original/2.png",
       "banner": "https://raw.githubusercontent.com/agc666/Magic-Art/main/banner/2.png",
@@ -67,6 +71,8 @@
     {
       "name": "Colorful style",
       "desc": "Colorful style Generation",
+      "diamond": 17,
+      "cost": 41,
       "url": "https://raw.githubusercontent.com/agc666/Magic-Art/main/result/3.png",
       "raw_photo": "https://raw.githubusercontent.com/agc666/Magic-Art/main/original/3.png",
       "banner": "https://raw.githubusercontent.com/agc666/Magic-Art/main/banner/3.png",
@@ -110,6 +116,8 @@
     {
       "name": "Painting",
       "desc": "80s Anime Generation",
+      "diamond": 14,
+      "cost": 32,
       "url": "https://raw.githubusercontent.com/agc666/Magic-Art/main/result/4.png",
       "raw_photo": "https://raw.githubusercontent.com/agc666/Magic-Art/main/original/4.png",
       "banner": "https://raw.githubusercontent.com/agc666/Magic-Art/main/banner/4.png",
@@ -141,6 +149,7 @@
         {
           "name": "Vintage Art",
           "desc": "Vintage Art Generation",
+          "diamond": 16,
           "cost": 39,
           "url": "https://raw.githubusercontent.com/agc666/Magic-Art/main/result/5.png",
           "raw_photo": "https://raw.githubusercontent.com/agc666/Magic-Art/main/original/5.png",
@@ -149,6 +158,7 @@
         {
           "name": "War Style",
           "desc": "War Style Generation",
+          "diamond": 16,
           "cost": 39,
           "url": "https://raw.githubusercontent.com/agc666/Magic-Art/main/result/6.png",
           "raw_photo": "https://raw.githubusercontent.com/agc666/Magic-Art/main/original/6.png",
@@ -174,6 +184,7 @@
         {
           "name": "90s Anime",
           "desc": "90s Anime Generation",
+          "diamond": 14,
           "cost": 32,
           "url": "https://raw.githubusercontent.com/agc666/Magic-Art/main/result/7.png",
           "raw_photo": "https://raw.githubusercontent.com/agc666/Magic-Art/main/original/7.png",
@@ -198,6 +209,7 @@
         {
           "name": "Painting",
           "desc": "80s Anime Generation",
+          "diamond": 14,
           "cost": 32,
           "url": "https://raw.githubusercontent.com/agc666/Magic-Art/main/result/4.png",
           "raw_photo": "https://raw.githubusercontent.com/agc666/Magic-Art/main/original/4.png",
@@ -224,6 +236,7 @@
         {
           "name": "Texture repaint",
           "desc": "Filmic Texture Generation",
+          "diamond": 14,
           "cost": 32,
           "url": "https://raw.githubusercontent.com/agc666/Magic-Art/main/result/8.png",
           "raw_photo": "https://raw.githubusercontent.com/agc666/Magic-Art/main/original/8.png",
@@ -249,6 +262,7 @@
         {
           "name": "Legend warrior",
           "desc": "Legend warrior Generation",
+          "diamond": 16,
           "cost": 39,
           "url": "https://raw.githubusercontent.com/agc666/Magic-Art/main/result/9.png",
           "raw_photo": "https://raw.githubusercontent.com/agc666/Magic-Art/main/original/9.png",
@@ -272,6 +286,7 @@
         {
           "name": "Impasto Style",
           "desc": "Color illustration Generation",
+          "diamond": 14,
           "cost": 34,
           "url": "https://raw.githubusercontent.com/agc666/Magic-Art/main/result/10.png",
           "raw_photo": "https://raw.githubusercontent.com/agc666/Magic-Art/main/original/10.png",
@@ -302,6 +317,7 @@
         {
           "name": "Ghibli Style",
           "desc": "Ghibli Style Generation",
+          "diamond": 17,
           "cost": 41,
           "url": "https://raw.githubusercontent.com/agc666/Magic-Art/main/result/11.png",
           "raw_photo": "https://raw.githubusercontent.com/agc666/Magic-Art/main/original/11.png",
@@ -329,6 +345,7 @@
         {
           "name": "Airbrushed art",
           "desc": "Airbrushed art Generation",
+          "diamond": 17,
           "cost": 41,
           "url": "https://raw.githubusercontent.com/agc666/Magic-Art/main/result/12.png",
           "raw_photo": "https://raw.githubusercontent.com/agc666/Magic-Art/main/original/12.png",
@@ -356,6 +373,7 @@
         {
           "name": "Vintage photos",
           "desc": "Vintage photos Generation",
+          "diamond": 16,
           "cost": 39,
           "url": "https://raw.githubusercontent.com/agc666/Magic-Art/main/result/13.png",
           "raw_photo": "https://raw.githubusercontent.com/agc666/Magic-Art/main/original/13.png",
@@ -383,6 +401,7 @@
         {
           "name": "Colorful style",
           "desc": "Colorful style Generation",
+          "diamond": 17,
           "cost": 41,
           "url": "https://raw.githubusercontent.com/agc666/Magic-Art/main/result/3.png",
           "raw_photo": "https://raw.githubusercontent.com/agc666/Magic-Art/main/original/3.png",
@@ -427,6 +446,7 @@
         {
           "name": "Cyberpunk",
           "desc": "Cyberpunk Generation",
+          "diamond": 17,
           "cost": 41,
           "url": "https://raw.githubusercontent.com/agc666/Magic-Art/main/result/14.png",
           "raw_photo": "https://raw.githubusercontent.com/agc666/Magic-Art/main/original/14.png",
@@ -461,6 +481,7 @@
         {
           "name": "Sonic Punk",
           "desc": "Sonic Punk Generation",
+          "diamond": 16,
           "cost": 39,
           "url": "https://raw.githubusercontent.com/agc666/Magic-Art/main/result/2.png",
           "raw_photo": "https://raw.githubusercontent.com/agc666/Magic-Art/main/original/2.png",
@@ -486,6 +507,7 @@
         {
           "name": "Pixar",
           "desc": "Pixar Generation",
+          "diamond": 16,
           "cost": 39,
           "url": "https://raw.githubusercontent.com/agc666/Magic-Art/main/result/15.png",
           "raw_photo": "https://raw.githubusercontent.com/agc666/Magic-Art/main/original/15.png",
@@ -510,6 +532,7 @@
         {
           "name": "Magic",
           "desc": "Magic Generation",
+          "diamond": 17,
           "cost": 41,
           "url": "https://raw.githubusercontent.com/agc666/Magic-Art/main/result/16.png",
           "raw_photo": "https://raw.githubusercontent.com/agc666/Magic-Art/main/original/16.png",
@@ -544,6 +567,7 @@
         {
           "name": "Elf Legend",
           "desc": "Elf Legend Generation",
+          "diamond": 17,
           "cost": 41,
           "url": "https://raw.githubusercontent.com/agc666/Magic-Art/main/result/17.png",
           "raw_photo": "https://raw.githubusercontent.com/agc666/Magic-Art/main/original/17.png",
@@ -574,6 +598,7 @@
         {
           "name": "3D Cartoon",
           "desc": "3D Cartoon Generation",
+          "diamond": 0,
           "cost": 16,
           "url": "https://raw.githubusercontent.com/agc666/Magic-Art/main/result/18.png",
           "raw_photo": "https://raw.githubusercontent.com/agc666/Magic-Art/main/original/18.png",
@@ -596,6 +621,7 @@
         {
           "name": "Oriental Beauty",
           "desc": "Beauty Generation",
+          "diamond": 0,
           "cost": 16,
           "url": "https://raw.githubusercontent.com/agc666/Magic-Art/main/result/19.png",
           "raw_photo": "https://raw.githubusercontent.com/agc666/Magic-Art/main/original/19.png",
@@ -618,6 +644,7 @@
         {
           "name": "Cartoonish",
           "desc": "Cartoonish Generation",
+          "diamond": 17,
           "cost": 41,
           "url": "https://raw.githubusercontent.com/agc666/Magic-Art/main/result/20.png",
           "raw_photo": "https://raw.githubusercontent.com/agc666/Magic-Art/main/original/20.png",
@@ -647,6 +674,7 @@
         {
           "name": "Illustration",
           "desc": "Illustration Generation",
+          "diamond": 16,
           "cost": 39,
           "url": "https://raw.githubusercontent.com/agc666/Magic-Art/main/result/1.png",
           "raw_photo": "https://raw.githubusercontent.com/agc666/Magic-Art/main/original/1.png",
